@@ -1,0 +1,46 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+  height: 100%;
+  max-width: 1024px;
+  /* max-height: 1024px; */
+  margin: auto;
+  flex-grow: 1;
+}
+#menu{
+  width: 200px;
+  height: 100%;
+  background-color: lightgray;
+  overflow-y: auto;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#toggleGridUI, #clearSelectionUI, #exportSelectionUI {
+  background-color: #fff;
+  border: 3px solid #fff;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0,0,0,.3);
+  cursor: pointer;
+  float: left;
+  margin-bottom: 22px;
+  text-align: center;
+}
+#toggleGridText, #clearSelectionText, #exportSelectionText {
+  color: rgb(25,25,25);
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 15px;
+  line-height: 25px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#clearSelectionUI, #exportSelectionUI {
+  margin-left: 12px;
+}
+.container{
+  display: flex;
+  height: 100%;
+}

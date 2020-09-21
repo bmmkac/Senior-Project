@@ -1,0 +1,9 @@
+{"84440T_001.tif": [{"Tiler_time": "00:01:32", "Segmenter_Classifier_time": "00:08:26", "Calculator_time": "00:00:00", "Visualizer_time": "00:09:07"}]} elapsedTime": "00:19:25"
+
+{"./Slides/84278T_001.tif": [{"Tiler_time": "00:15:04", "Segmenter_Classifier_time": "00:02:50", "Calculator_time": "00:00:00", "Visualizer_time": "00:09:26"}]}elapsedTime": "00:27:41"
+
+{"./Slides/84278T_002.tif": [{"Tiler_time": "00:24:28", "Segmenter_Classifier_time": "00:02:46", "Calculator_time": "00:00:01", "Visualizer_time": "00:10:39", "elapsed_time": "00:38:15"}]}
+
+{"./Slides/84278T_003.tif": [{"Tiler_time": "00:15:46", "Segmenter_Classifier_time": "00:04:37", "Calculator_time": "00:00:00", "Visualizer_time": "00:09:29", "elapsed_time": "00:30:12"}]}
+
+{"./Slides/84278T_004.tif": [{"Tiler_time": "00:18:35", "Segmenter_Classifier_time": "00:04:50", "Calculator_time": "00:00:01", "Visualizer_time": "00:11:20", "elapsed_time": "00:35:10"}]}
